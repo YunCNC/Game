@@ -1,2 +1,5 @@
 * text eol=lf
 *.wasm binary
+*.js text eol=lf
+*.html text eol=lf
+*.css text eol=lf
